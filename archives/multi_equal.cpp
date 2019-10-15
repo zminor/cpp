@@ -1,7 +1,7 @@
 #include "../precompile.h"
 
 /*
- * a = b = value; -> b = value; a = b;
+ * a = b = value; -> b = value; a = value;
  */
 int main(int argc, char** argv)
 {

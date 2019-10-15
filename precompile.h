@@ -1,5 +1,7 @@
 #include <iostream>
 #include <fstream>
+#include <istream>
+#include <ostream>
 
 #include <vector>
 #include <string>
@@ -15,3 +17,8 @@
 
 //#include <math>
 #include <limits>
+#include <iterator>
+#include <functional>
+
+#include <chrono>
+
