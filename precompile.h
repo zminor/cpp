@@ -21,4 +21,7 @@
 #include <functional>
 
 #include <chrono>
+#include <thread>
+#include <future>
 
+#include <boost/type_index.hpp>

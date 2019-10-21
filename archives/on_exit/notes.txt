@@ -1,0 +1,2 @@
+on_exit can be used to capture exit status before exit
+atexit  is easiler to use

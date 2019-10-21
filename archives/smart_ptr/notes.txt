@@ -1,0 +1,2 @@
+-if use lambda with no capture does NOT increase the SIZE
+-using function ptr will INCREASE the SIZE
