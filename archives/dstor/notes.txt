@@ -1,0 +1,2 @@
+static variable inside function will release when function is over
+global will be clear until program is over

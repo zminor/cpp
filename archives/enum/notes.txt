@@ -1,0 +1,2 @@
+enum initialized with value 0;
+if partialy given value, enum will start with value 0, next will be 1, until the value been given

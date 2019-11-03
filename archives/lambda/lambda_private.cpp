@@ -1,4 +1,3 @@
-
 #include "../../precompile.h"
 using namespace std;
 
@@ -10,7 +9,7 @@ public:
     {
         //divisor not visible to lambda,bu visible to this
         //return [divisor] (int value){ return value %divisor ==0;};
-        return [=] (int value){ return value %divisor ==0;};
+        return [=] (int value){ return value %divisor ==0;};//= captures this pointer
     }
 private:
     int divisor = 10;

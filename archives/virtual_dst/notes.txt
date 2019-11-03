@@ -1,0 +1,1 @@
+if dstor not virtual, delete will call Base`s dstor
